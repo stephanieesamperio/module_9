@@ -21,7 +21,7 @@ It’s been two weeks since you were hired as a new data engineer at Pewlett Hac
    
    emp_no is unique number for each employee which makes it a primary key.
    
-   emp_no in dept_empployees ia a foreign key to the primary key emp_no.
+   emp_no in dept_employees ia a foreign key to the primary key emp_no.
    
    emp_no in dept_manager, titles and salaires are foreign keys
 
