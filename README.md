@@ -13,6 +13,8 @@ It’s been two weeks since you were hired as a new data engineer at Pewlett Hac
 
    **This was used as a rough draft to CREATE the tables on pgadmin, and it shows all data types, primary keys and also foreign keys.
 
+
+
 [DATE ENGINEERING - Primary and Foreign Keys]
 
    -Table Name: Employees
