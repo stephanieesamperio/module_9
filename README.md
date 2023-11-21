@@ -9,7 +9,7 @@ It’s been two weeks since you were hired as a new data engineer at Pewlett Hac
 
 [DATA MODELING]
 
-    ![Module9ERD](https://github.com/stephanieesamperio/module_9/assets/144180948/09c8e66e-d87b-464d-b2a3-12dd13d19a00)
+![Module9ERD](https://github.com/stephanieesamperio/module_9/assets/144180948/09c8e66e-d87b-464d-b2a3-12dd13d19a00)
 
    **This was used as a rough draft to CREATE the tables on pgadmin, and it shows all data types, primary keys and also foreign keys.
 
