@@ -23,8 +23,7 @@ It’s been two weeks since you were hired as a new data engineer at Pewlett Hac
    -Table Name: Departments
    dept_no is a unique number for each department which makes it a primary key.
    dept_no in dept_manager and dept_employees are foreign keys.
-      
-     
+
 3.Data Analysis
 
 Questions that needed to be answered within the code.
